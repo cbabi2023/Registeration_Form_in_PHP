@@ -19,8 +19,6 @@ Key Features:
 
 6. **Customizable**: The code and design can be easily customized to match the branding and specific requirements of your travel application.
 
-7. **Documentation**: The repository may include documentation or a README file to guide you through setting up and deploying the registration form.
-
 Usage:
 This repository is ideal for developers and organizations seeking a ready-made solution to implement user registration functionality in travel-related websites or applications. By using this codebase as a foundation, you can save time and resources while ensuring a secure and efficient registration process for your users.
 
