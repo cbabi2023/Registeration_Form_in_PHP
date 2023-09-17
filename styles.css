@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: monospace;
+}
+
+.container {
+
+    background-color: rgb(223, 3, 127);
+    max-width: 80%;
+    padding: 18px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 25px;
+    line-height: 1.5;
+
+
+}
+
+.container h1, p {
+    text-align: center;
+    color: #fff;
+}
+
+input,textarea {
+    width: 80%;
+    margin: 7px auto;
+    padding: 10px;
+    font-size: 15px;
+    border: 2px solid transparent;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.7);
+    transition: box-shadow 0.3s ease-in-out;
+    outline: none;
+    display: block;
+    
+}
+
+input,textarea:hover{
+    box-shadow: -2px -1px 8px 2px rgba(255, 255, 255, 0.9);
+
+}
+
+form{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn{
+    color: #ff02b0;
+    background: white;
+    margin: auto;
+    padding: 12px;
+    border-radius: 15px;
+    font-size: 18px;
+    font-family: monospace;
+    box-shadow: -2px 4px 14px 3px rgba(255, 255, 255, 0.7);
+    transition: box-shadow 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.Submsg{
+    font-size: 16px;
+    color: #c0ff5f;
+    text-shadow: 27px -8px 14px;
+
+}
+
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 14px;
+}
